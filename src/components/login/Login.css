@@ -1,0 +1,20 @@
+.loginOuter {
+  background-color: #9acdf4;
+  width: 300px;
+  margin: auto;
+  padding: 40px;
+}
+.loginInner {
+  margin-top: 20px;
+}
+
+.btn {
+  color: #fff;
+  background-color: #027406;
+  border: none;
+  padding: 7px;
+  margin: 3px;
+}
+.btn:hover {
+  background-color: #002401;
+}
