@@ -4,7 +4,7 @@ Target 1:
 - Design a simple login screen on which contains email, password fields for input.
   Create Login, Register, Forgot password as a buttons.
 - Apply all validations
-- Add facility to only login with username: sntuser and password: Snt@1234
+- Add facility to only login with username: sntuser and password: snt@1234
 - Password validation should be
 
 * must be minimum 8 digits
